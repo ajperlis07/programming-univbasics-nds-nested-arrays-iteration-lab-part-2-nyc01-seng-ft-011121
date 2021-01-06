@@ -9,5 +9,6 @@ def find_min_in_nested_arrays(src)
    if src[row_index][element_index] > lowest_temp
      src[row_index][element_index] = lowest_temp
    end 
-   element_index
+   element_index += 1 
+ end 
 
