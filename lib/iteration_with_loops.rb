@@ -13,5 +13,6 @@ def find_min_in_nested_arrays(src)
  min_temp << lowest_value_element
  row_index += 1 
  end 
+ min_temp
 end
 
