@@ -8,5 +8,6 @@ def find_min_in_nested_arrays(src)
  while element_index < src[row_index].count do 
    if src[row_index][element_index] > lowest_temp
      src[row_index][element_index] = lowest_temp
-   end
+   end 
+   element_index
 
