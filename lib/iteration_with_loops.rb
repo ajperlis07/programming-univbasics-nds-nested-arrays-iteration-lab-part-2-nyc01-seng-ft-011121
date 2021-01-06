@@ -5,5 +5,5 @@ def find_min_in_nested_arrays(src)
    element_index = 0 
    lowest_temp = 400
    
- while 
+ while element_index <
 
