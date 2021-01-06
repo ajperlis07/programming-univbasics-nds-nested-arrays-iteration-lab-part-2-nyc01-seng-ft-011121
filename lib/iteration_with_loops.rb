@@ -4,6 +4,6 @@ def find_min_in_nested_arrays(src)
  while row_index < src.count 
  element_index = 0 
  lowest_value_element = ""
- while 
+ while element_index 
  end
 
